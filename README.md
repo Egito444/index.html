@@ -9,7 +9,7 @@
 <body class="bg-gray-50 text-gray-800">
 
   <!-- Cabeçalho -->
-  <header class="bg-pink-600 text-white p-6">
+  <header class="bg-gray-900 text-white p-6">
     <div class="max-w-7xl mx-auto flex justify-between items-center">
       <h1 class="text-2xl font-bold">AldaRio</h1>
       <nav>
@@ -24,7 +24,7 @@
   <!-- Banner com logo -->
   <section class="bg-gray-900 text-white text-center py-16">
     <div class="flex flex-col items-center justify-center">
-      <img <img src="https://chat.openai.com/mnt/data/alda-logo-359b12bf.png" alt="Logo AldaRio" class="w-32 h-32 mb-6 rounded-full">
+      <img src="https://github.com/Egito444/index.html/blob/main/Logo%20Alda.png?raw=true" alt="Logo AldaRio" class="w-32 h-32 mb-6 rounded-full">
       <h2 class="text-4xl font-bold mb-4">Moda Fitness com Estilo</h2>
       <p class="text-lg text-gray-300 mb-6">AldaRio: conforto, performance e elegância para o seu treino.</p>
       <a href="#produtos" class="bg-white text-gray-900 px-6 py-3 rounded-full text-lg font-semibold hover:bg-gray-200 transition">Ver Coleção</a>
@@ -42,8 +42,8 @@
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Cropped Esportivo Rosa</h4>
           <p class="text-gray-600 mb-4">Cropped com tecido respirável, ideal para treinos intensos e estilo no dia a dia.</p>
-          <span class="text-pink-600 font-bold text-lg block mb-4">R$ 89,90</span>
-          <a href="https://wa.me/5521983636221?text=Ol%C3%A1%2C+quero+saber+mais+sobre+o+Cropped+Esportivo+Rosa." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <span class="text-gray-900 font-bold text-lg block mb-4">R$ 89,90</span>
+          <a href="https://wa.me/5521983636221?text=Ol%C3%A1%2C+quero+saber+mais+sobre+o+Cropped+Esportivo+Rosa." target="_blank" class="bg-gray-900 text-white px-4 py-2 rounded hover:bg-gray-800 transition">Comprar via WhatsApp</a>
         </div>
       </div>
 
@@ -53,8 +53,8 @@
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Legging Confort Fit Verde</h4>
           <p class="text-gray-600 mb-4">Legging com ajuste anatômico e tecido que respira. Ideal para treinos ou looks casuais.</p>
-          <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
-          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Confort+Fit+Verde." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <span class="text-gray-900 font-bold text-lg block mb-4">R$ 119,90</span>
+          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Confort+Fit+Verde." target="_blank" class="bg-gray-900 text-white px-4 py-2 rounded hover:bg-gray-800 transition">Comprar via WhatsApp</a>
         </div>
       </div>
 
@@ -64,8 +64,8 @@
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Legging Performance Vinho</h4>
           <p class="text-gray-600 mb-4">Legging de alta compressão com estilo e firmeza. Realce sua silhueta com liberdade de movimento.</p>
-          <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
-          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Performance+Vinho." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <span class="text-gray-900 font-bold text-lg block mb-4">R$ 119,90</span>
+          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Performance+Vinho." target="_blank" class="bg-gray-900 text-white px-4 py-2 rounded hover:bg-gray-800 transition">Comprar via WhatsApp</a>
         </div>
       </div>
 
@@ -73,16 +73,16 @@
   </section>
 
   <!-- Contato -->
-  <section id="contato" class="bg-pink-50 py-16 px-4 text-center">
+  <section id="contato" class="bg-gray-100 py-16 px-4 text-center">
     <h3 class="text-3xl font-bold mb-6">Fale Conosco</h3>
     <p class="mb-4 text-gray-700">Dúvidas, sugestões ou parcerias? Fale com a gente!</p>
-    <a href="mailto:contato@aldario.com.br" class="text-pink-600 underline text-lg">contato@aldario.com.br</a>
+    <a href="mailto:contato@aldario.com.br" class="text-gray-900 underline text-lg">contato@aldario.com.br</a>
   </section>
 
   <!-- Rodapé -->
-  <footer class="bg-pink-600 text-white text-center py-6">
+  <footer class="bg-gray-900 text-white text-center py-6">
     <p class="mb-2">&copy; 2025 AldaRio. Todos os direitos reservados.</p>
-    <a href="https://www.instagram.com/alda.rio/" target="_blank" class="underline hover:text-pink-200">@alda.rio no Instagram</a>
+    <a href="https://www.instagram.com/alda.rio/" target="_blank" class="underline hover:text-gray-300">@alda.rio no Instagram</a>
   </footer>
 
 </body>
