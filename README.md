@@ -39,7 +39,7 @@
           <h4 class="text-xl font-semibold mb-2">Cropped Esportivo Rosa</h4>
           <p class="text-gray-600 mb-4">Cropped com tecido respirável, ideal para treinos intensos e estilo no dia a dia.</p>
           <span class="text-pink-600 font-bold text-lg block mb-4">R$ 89,90</span>
-          <a href="https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C+quero+saber+mais+sobre+o+Cropped+Esportivo+Rosa." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <a href="https://wa.me/5521983636221?text=Ol%C3%A1%2C+quero+saber+mais+sobre+o+Cropped+Esportivo+Rosa." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
         </div>
       </div>
 
@@ -50,7 +50,7 @@
           <h4 class="text-xl font-semibold mb-2">Legging de Compressão Preta</h4>
           <p class="text-gray-600 mb-4">Legging de alta compressão, modela o corpo sem transparência. Performance e segurança nos movimentos.</p>
           <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
-          <a href="https://wa.me/55SEUNUMERO?text=Oi%2C+gostaria+de+comprar+a+Legging+de+Compress%C3%A3o+Preta." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+de+Compress%C3%A3o+Preta." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
         </div>
       </div>
 
@@ -61,7 +61,7 @@
           <h4 class="text-xl font-semibold mb-2">Shorts Fitness Estampado</h4>
           <p class="text-gray-600 mb-4">Shorts leve e estiloso com estampa exclusiva da AldaRio. Conforto e liberdade de movimento.</p>
           <span class="text-pink-600 font-bold text-lg block mb-4">R$ 74,90</span>
-          <a href="https://wa.me/55SEUNUMERO?text=Oi%21+Tenho+interesse+no+Shorts+Fitness+Estampado." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <a href="https://wa.me/5521983636221?text=Oi%21+Tenho+interesse+no+Shorts+Fitness+Estampado." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
         </div>
       </div>
     </div>
