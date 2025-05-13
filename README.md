@@ -21,11 +21,14 @@
     </div>
   </header>
 
-  <!-- Banner -->
-  <section class="bg-pink-100 text-center py-16">
-    <h2 class="text-4xl font-bold mb-4">Moda Fitness com Estilo</h2>
-    <p class="text-lg text-gray-700 mb-6">AldaRio: conforto, desempenho e beleza para seus treinos.</p>
-    <a href="#produtos" class="bg-pink-600 text-white px-6 py-3 rounded-full text-lg hover:bg-pink-700 transition">Ver Coleção</a>
+  <!-- Banner com logo -->
+  <section class="bg-gray-900 text-white text-center py-16">
+    <div class="flex flex-col items-center justify-center">
+      <img src="https://chat.openai.com/mnt/data/alda-logo-2ef889cc.png" alt="Logo AldaRio" class="w-32 h-32 mb-6 rounded-full">
+      <h2 class="text-4xl font-bold mb-4">Moda Fitness com Estilo</h2>
+      <p class="text-lg text-gray-300 mb-6">AldaRio: conforto, performance e elegância para o seu treino.</p>
+      <a href="#produtos" class="bg-white text-gray-900 px-6 py-3 rounded-full text-lg font-semibold hover:bg-gray-200 transition">Ver Coleção</a>
+    </div>
   </section>
 
   <!-- Produtos -->
