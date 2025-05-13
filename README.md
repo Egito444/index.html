@@ -32,9 +32,10 @@
   <section id="produtos" class="max-w-7xl mx-auto py-16 px-4">
     <h3 class="text-3xl font-bold text-center mb-12">Nossos Produtos</h3>
     <div class="grid md:grid-cols-3 gap-8">
-      <!-- Produto 1 -->
+      
+      <!-- Produto 1: Cropped -->
       <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        <img src="https://via.placeholder.com/400x300?text=Cropped+Fitness" alt="Cropped Fitness" class="w-full h-64 object-cover">
+        <img src="https://images.unsplash.com/photo-1606811842539-9d58e00dc7c8?auto=format&fit=crop&w=600&q=80" alt="Cropped Rosa" class="w-full h-64 object-cover">
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Cropped Esportivo Rosa</h4>
           <p class="text-gray-600 mb-4">Cropped com tecido respirável, ideal para treinos intensos e estilo no dia a dia.</p>
@@ -42,50 +43,29 @@
           <a href="https://wa.me/5521983636221?text=Ol%C3%A1%2C+quero+saber+mais+sobre+o+Cropped+Esportivo+Rosa." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
         </div>
       </div>
-      
-<!-- Produto 1: Legging Verde -->
-<div class="bg-white shadow-md rounded-lg overflow-hidden">
-  <img src="https://raw.githubusercontent.com/egito444/assets/main/legging-verde.png" alt="Legging Verde" class="w-full h-64 object-cover">
-  <div class="p-4">
-    <h4 class="text-xl font-semibold mb-2">Legging Confort Fit Verde</h4>
-    <p class="text-gray-600 mb-4">Legging com ajuste anatômico e tecido que respira. Ideal para treinos ou looks casuais.</p>
-    <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
-    <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Confort+Fit+Verde." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
-  </div>
-</div>
 
-<!-- Produto 2: Legging Vinho -->
-<div class="bg-white shadow-md rounded-lg overflow-hidden">
-  <img src="https://raw.githubusercontent.com/egito444/assets/main/legging-vermelha.png" alt="Legging Vinho" class="w-full h-64 object-cover">
-  <div class="p-4">
-    <h4 class="text-xl font-semibold mb-2">Legging Performance Vinho</h4>
-    <p class="text-gray-600 mb-4">Legging de alta compressão com estilo e firmeza. Realce sua silhueta com liberdade de movimento.</p>
-    <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
-    <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Performance+Vinho." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
-  </div>
-</div>
-
-      <!-- Produto 2 -->
+      <!-- Produto 2: Legging Verde -->
       <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        <img src="https://via.placeholder.com/400x300?text=Legging+Fitness" alt="Legging" class="w-full h-64 object-cover">
+        <img src="https://images.unsplash.com/photo-1598970434795-0c54fe7c0642?auto=format&fit=crop&w=600&q=80" alt="Legging Verde" class="w-full h-64 object-cover">
         <div class="p-4">
-          <h4 class="text-xl font-semibold mb-2">Legging de Compressão Preta</h4>
-          <p class="text-gray-600 mb-4">Legging de alta compressão, modela o corpo sem transparência. Performance e segurança nos movimentos.</p>
+          <h4 class="text-xl font-semibold mb-2">Legging Confort Fit Verde</h4>
+          <p class="text-gray-600 mb-4">Legging com ajuste anatômico e tecido que respira. Ideal para treinos ou looks casuais.</p>
           <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
-          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+de+Compress%C3%A3o+Preta." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Confort+Fit+Verde." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
         </div>
       </div>
 
-      <!-- Produto 3 -->
+      <!-- Produto 3: Legging Vinho -->
       <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        <img src="https://via.placeholder.com/400x300?text=Shorts+Fitness" alt="Shorts" class="w-full h-64 object-cover">
+        <img src="https://images.unsplash.com/photo-1620419904443-93f3c0d69b07?auto=format&fit=crop&w=600&q=80" alt="Legging Vinho" class="w-full h-64 object-cover">
         <div class="p-4">
-          <h4 class="text-xl font-semibold mb-2">Shorts Fitness Estampado</h4>
-          <p class="text-gray-600 mb-4">Shorts leve e estiloso com estampa exclusiva da AldaRio. Conforto e liberdade de movimento.</p>
-          <span class="text-pink-600 font-bold text-lg block mb-4">R$ 74,90</span>
-          <a href="https://wa.me/5521983636221?text=Oi%21+Tenho+interesse+no+Shorts+Fitness+Estampado." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
+          <h4 class="text-xl font-semibold mb-2">Legging Performance Vinho</h4>
+          <p class="text-gray-600 mb-4">Legging de alta compressão com estilo e firmeza. Realce sua silhueta com liberdade de movimento.</p>
+          <span class="text-pink-600 font-bold text-lg block mb-4">R$ 119,90</span>
+          <a href="https://wa.me/5521983636221?text=Oi%2C+gostaria+de+comprar+a+Legging+Performance+Vinho." target="_blank" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-700 transition">Comprar via WhatsApp</a>
         </div>
       </div>
+
     </div>
   </section>
 
