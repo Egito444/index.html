@@ -35,7 +35,7 @@
       
       <!-- Produto 1: Cropped -->
       <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        <img src="https://images.unsplash.com/photo-1606811842539-9d58e00dc7c8?auto=format&fit=crop&w=600&q=80" alt="Cropped Rosa" class="w-full h-64 object-cover">
+        <img src="https://chat.openai.com/mnt/data/2028924c-c947-4d22-bf41-a60cc35ef43a-46588cef.png" alt="Cropped Rosa" class="w-full h-64 object-cover">
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Cropped Esportivo Rosa</h4>
           <p class="text-gray-600 mb-4">Cropped com tecido respirável, ideal para treinos intensos e estilo no dia a dia.</p>
@@ -46,7 +46,7 @@
 
       <!-- Produto 2: Legging Verde -->
       <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        <img src="https://images.unsplash.com/photo-1598970434795-0c54fe7c0642?auto=format&fit=crop&w=600&q=80" alt="Legging Verde" class="w-full h-64 object-cover">
+        <img src="https://chat.openai.com/mnt/data/11e1cc2d-4852-41b4-bc05-2c51cab77233-c941b5f7.png" alt="Legging Verde" class="w-full h-64 object-cover">
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Legging Confort Fit Verde</h4>
           <p class="text-gray-600 mb-4">Legging com ajuste anatômico e tecido que respira. Ideal para treinos ou looks casuais.</p>
@@ -57,7 +57,7 @@
 
       <!-- Produto 3: Legging Vinho -->
       <div class="bg-white shadow-md rounded-lg overflow-hidden">
-        <img src="https://images.unsplash.com/photo-1620419904443-93f3c0d69b07?auto=format&fit=crop&w=600&q=80" alt="Legging Vinho" class="w-full h-64 object-cover">
+        <img src="https://chat.openai.com/mnt/data/18a753cb-e1f1-485b-b5c2-2437bf8bead2-568d58fb.png" alt="Legging Vinho" class="w-full h-64 object-cover">
         <div class="p-4">
           <h4 class="text-xl font-semibold mb-2">Legging Performance Vinho</h4>
           <p class="text-gray-600 mb-4">Legging de alta compressão com estilo e firmeza. Realce sua silhueta com liberdade de movimento.</p>
