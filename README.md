@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Egito PetShop</title>
+  <title>AuLove - Amor em Cada Latido</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f6f6f6;
+      background-color: #fefefe;
       margin: 0;
       padding: 0;
       color: #333;
     }
     header {
-      background-color: #009688;
+      background-color: #ff6f61;
       color: white;
       padding: 20px;
       text-align: center;
@@ -56,8 +56,8 @@
 </head>
 <body>
   <header>
-    <h1>Egito PetShop</h1>
-    <p>Produtos incríveis para seu pet, com entrega garantida!</p>
+    <h1>AuLove</h1>
+    <p>Amor em Cada Latido - Produtos que cuidam do seu melhor amigo!</p>
   </header>
   <div class="container">
     <div class="product">
